@@ -16,3 +16,4 @@ router.get('/', getAllClassrooms);
 router.post('/allocate', allocateExamSeats);
 
 module.exports = router;
+
