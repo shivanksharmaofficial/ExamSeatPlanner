@@ -56,7 +56,8 @@ Database
 MongoDB - NoSQL database for data persistence
 
 📁 Project Structure
-text
+
+
 ExamSeatPlanner/
 ├── backend/                    # Express.js server
 │   ├── models/
