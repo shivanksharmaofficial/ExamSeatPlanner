@@ -59,20 +59,37 @@ MongoDB - NoSQL database for data persistence
 
 
 ExamSeatPlanner/
-├── backend/                    # Express.js server
+
+├── backend/    # Express.js server
+
 │   ├── models/
+
 │   │   └── Classroom.js       # MongoDB schema
+
 │   ├── server.js              # Main server file
+
 │   └── package.json
+
 ├── frontend/                  # React.js application
+
 │   ├── src/
+
 │   │   ├── components/        # React components
+
 │   │   │   ├── AddClassroom.js
+
 │   │   │   ├── ClassroomList.js
+
 │   │   │   └── AllocateExam.js
+
 │   │   ├── App.js            # Main app component
+
 │   │   └── index.js          # Entry point
+
 │   └── package.json
+
 ├── .gitignore
+
 └── README.md
+
 
